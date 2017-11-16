@@ -1,1 +1,36 @@
-stylefile
+*{
+  background-color: black;
+  text-align: center;
+}
+
+h1,
+h2,
+p {
+  font-family: Verdana;
+
+}
+
+h1{
+  font-weight: normal;
+  font-size: 50px;
+
+
+
+}
+
+p{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h1,
+h2{
+  color: white;
+}
+
+#grey{
+  color: gray;
+  font-family: verdana;
+  font-size: 21px;
+
+}
